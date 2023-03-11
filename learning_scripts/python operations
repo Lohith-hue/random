@@ -1,0 +1,27 @@
+• + plus
+• - minus
+• / slash
+• * asterisk
+• % percent
+• < less-than
+• > greater-than
+• <= less-than-equal
+• >= greater-than-equal
+
+
+a = "abcdefg"
+>>> b = ["a","b","c","d","e","f","g"]
+>>> c = {"one":"a","two":"b","three":"c","four":"d","five":"e","six":"f","seven":"g"}
+>>> c["one"]
+'a'
+>>> a[3]
+'d'
+>>> b[4]
+'e'
+
+
+#datatypes
+#int
+#float
+#str
+
