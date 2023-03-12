@@ -1,0 +1,4 @@
+cd ~
+cd /Volumes/Work/vroom/peelworks
+sh run.sh
+
